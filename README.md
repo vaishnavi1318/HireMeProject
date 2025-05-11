@@ -75,6 +75,8 @@ final_project/
 ├── requirements.txt
 
 └── README.md
+
+
 SETUP INSTRUCTIONS
 Clone the repository git clone https://github.com/vaishnavi1318/HireMeProject.git
 
@@ -85,5 +87,7 @@ Create a virtual environment (optional but recommended) python -m venv venv sour
 Install dependencies (Flask, etc.) pip install -r requirements.txt
 
 Run the app python app.py
+
+
 Acknowledgment
 I would like to extend my heartfelt thanks to the Swapnodaya team for their constant support, mentorship, and valuable guidance throughout this project. Your help played a crucial role in its successful completion!
